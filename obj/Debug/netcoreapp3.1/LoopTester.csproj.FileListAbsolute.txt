@@ -1,0 +1,13 @@
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\obj\Debug\netcoreapp3.1\LoopTester.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\obj\Debug\netcoreapp3.1\LoopTester.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\obj\Debug\netcoreapp3.1\LoopTester.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\obj\Debug\netcoreapp3.1\LoopTester.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\bin\Debug\netcoreapp3.1\LoopTester.exe
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\bin\Debug\netcoreapp3.1\LoopTester.deps.json
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\bin\Debug\netcoreapp3.1\LoopTester.runtimeconfig.json
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\bin\Debug\netcoreapp3.1\LoopTester.runtimeconfig.dev.json
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\bin\Debug\netcoreapp3.1\LoopTester.dll
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\bin\Debug\netcoreapp3.1\LoopTester.pdb
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\obj\Debug\netcoreapp3.1\LoopTester.dll
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\obj\Debug\netcoreapp3.1\LoopTester.pdb
+C:\Users\Hasan\Desktop\Projeler\LoopTester\LoopTester\obj\Debug\netcoreapp3.1\LoopTester.genruntimeconfig.cache
