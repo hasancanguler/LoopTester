@@ -1,17 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace LoopTester
 {
-    public class ForLoop : ILoop
+    public class ParallelForLoop : ILoop
     {
         public void Start(int totalCount)
-        {
-            for (int index = totalCount; index > 0; index--)
+        {            
+            Parallel.For (0,totalCount, index =>
             {
                 Business.DoSomething();
-            }
+            });
         }
     }
 }

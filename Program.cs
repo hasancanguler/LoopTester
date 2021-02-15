@@ -8,11 +8,12 @@ namespace LoopTester
         static void Main(string[] args)
         {
             Stopwatch sp = new Stopwatch();
-            int totalCount = 200_000_000;            
-            
+            int totalCount = 200_000_000;
+
             //ILoop looper = new ForLoop();
-            ILoop looper = new DoLoop();
+            //ILoop looper = new DoLoop();
             //ILoop looper = new WhileLoop();
+            ILoop looper = new ParallelForLoop();
 
             sp.Start();
             looper.Start(totalCount);
